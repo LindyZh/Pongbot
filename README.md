@@ -1,5 +1,7 @@
 # Pongbot
 
+Authors: Serena Liu, Lindy Zhai
+
 ![alt text](https://github.com/LindyZh/Pongbot/blob/7245fe839e22e9de4def622da2afe78c732cddb7/pong_snipshot.png)
 
 Youtube link to the final pong contest matches:
